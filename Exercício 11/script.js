@@ -9,7 +9,7 @@ let products = [
 
 let myList = document.getElementById('productList');
 
-for(i = 0; i < products.lenght; i++) {
+for(i = 0; i < products.length; i++) {
     
     let product = products[i];
     
